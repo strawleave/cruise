@@ -166,6 +166,11 @@ ctrl + t
 
 
 
+[Google][]
+
+[Google]: http://www.google.com/
+
+
 
 
 
@@ -173,6 +178,11 @@ ctrl + t
 [goo]:https://www.google.com "mygoo"
 
 
+[leave]:https://www.bilibili.com "ll"
+
+
+
+[leave][]
 
 
 
@@ -182,3 +192,6 @@ ctrl + t
 
 
 
+
+
+[mygoo]: 
