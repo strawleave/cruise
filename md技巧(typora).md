@@ -170,7 +170,7 @@ ctrl + t
 
 [google](https://www.google.com)
 
-[google]:https://www.google.com
+[goo]:https://www.google.com
 
 <https://www.google.com>
 
