@@ -166,13 +166,13 @@ ctrl + t
 
 
 
-[Google](http://www.google.com/ "Google")
 
-[google](https://www.google.com)
+
+
 
 [goo]:https://www.google.com
 
-<https://www.google.com>
+
 
 
 
