@@ -170,7 +170,7 @@ ctrl + t
 
 
 
-[goo]:https://www.google.com
+[goo]:https://www.google.com "mygoo"
 
 
 
